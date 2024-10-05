@@ -7,5 +7,6 @@ Este repositório tem como objetivo compartilhar meus estudos de lógica de prog
 1. [O que é Lógica de Programação?](https://github.com/NatanaelSCampos/estudos-logica-programacao/wiki)
 2. [Lógica de Programação com Python](https://github.com/NatanaelSCampos/estudos-logica-programacao/wiki/Logica-de-Programa%C3%A7%C3%A3o-com-Python)
 3. [Lógica de Programação com JavaScript](https://github.com/NatanaelSCampos/estudos-logica-programacao/wiki/L%C3%B3gica-de-Programa%C3%A7%C3%A3o-com-JavaScript)
+   - [Estrutura de Dados Com Javascript](https://github.com/NatanaelSCampos/estudos-logica-programacao/wiki/L%C3%B3gica-de-Programa%C3%A7%C3%A3o-com-JavaScript)
 
 Ah, também há diversos algoritmos de estudos com Python e JavaScript na prática! Espero que o conteúdo ajude em sua jornada e estudos. ;-)
